@@ -1,2 +1,2 @@
-# Respostory
+# Repository
 Few of my projects that I am working on
